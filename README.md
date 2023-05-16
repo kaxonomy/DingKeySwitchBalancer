@@ -33,4 +33,4 @@ If you encounter any issues or have suggestions, please open an issue [here](htt
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial License. See the [LICENSE](https://github.com/kaxlabs/DingKeySwitchBalancer/LICENSE) file for more details.
+This project is licensed under the Creative Commons Attribution-NonCommercial License. See the [LICENSE](https://github.com/kaxlabs/DingKeySwitchBalancer/blob/master/LICENSE.md) file for more details.
