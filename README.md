@@ -9,6 +9,8 @@
 
 A switch balancer program to prevent uneven wear on the Dingkey Designs break-in machine.
 
+![Preview](https://i.imgur.com/wqOtzQM.png)
+
 ## Installation
 
 1. Go to the [Releases](https://github.com/kaxlabs/DingKeySwitchBalancer/releases) section of this repository.
