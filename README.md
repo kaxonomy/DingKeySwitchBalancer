@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE.md)
 [![Support via Cash App](https://img.shields.io/badge/Support-Cash%20App-brightgreen.svg)](https://cash.app/$kaxoncash)
 [![Support via Bitcoin](https://img.shields.io/badge/Support-Bitcoin-orange.svg)](https://imgur.com/a/p4RtHiB)
+[![Star this repository](https://img.shields.io/github/stars/kaxlabs/DingKeySwitchBalancer?style=social)](https://github.com/kaxlabs/DingKeySwitchBalancer)
 
 ## Description
 
