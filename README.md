@@ -1,6 +1,6 @@
 # DingKeySwitchBalancer
 
-[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE.md)
 [![Support via Cash App](https://img.shields.io/badge/Support-Cash%20App-brightgreen.svg)](https://cash.app/$kaxoncash)
 [![Support via Bitcoin](https://img.shields.io/badge/Support-Bitcoin-orange.svg)](https://imgur.com/a/p4RtHiB)
 
@@ -33,4 +33,4 @@ If you encounter any issues or have suggestions, please open an issue [here](htt
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial License. See the [LICENSE](https://github.com/kaxlabs/DingKeySwitchBalancer/blob/master/LICENSE.md) file for more details.
+This project is licensed under the Creative Commons Attribution-NonCommercial License. See the [LICENSE](LICENSE.md) file for more details.
