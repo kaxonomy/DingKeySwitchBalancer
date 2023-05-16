@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+    id 'com.github.johnrengelman.shadow' version '7.1.2'
+}
+
+group 'tech.kaxon'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.yaml:snakeyaml:2.0'
+    implementation 'org.fusesource.jansi:jansi:2.3.2'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'dev.kaxon.switchbalancer.Main'
+    }
+}
+
+shadowJar {
+    archiveFileName = "${project.name}.jar"
+}
