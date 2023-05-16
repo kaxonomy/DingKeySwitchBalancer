@@ -7,7 +7,7 @@
 
 ## Description
 
-A switch balancer program to prevent uneven wear on the Dingkey Designs break-in machine.
+A switch balancer program to prevent uneven wear on the DingKey Designs break in machine.
 
 ![Preview](https://i.imgur.com/wqOtzQM.png)
 
