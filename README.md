@@ -18,22 +18,4 @@ A switch balancer program to prevent uneven wear on the DingKey Designs break in
 3. Create a folder on your system where you want to install the project.
 4. Place the downloaded release file into the created folder.
 5. Open a terminal or command prompt and navigate to the project folder.
-6. Run the appropriate batch or bash file for your operating system:
-
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to the forked repository.
-5. Submit a pull request.
-
-## Issues
-
-If you encounter any issues or have suggestions, please open an issue [here](https://github.com/kaxlabs/DingKeySwitchBalancer/issues).
-
-## License
-
-This project is licensed under the Creative Commons Attribution-NonCommercial License. See the [LICENSE](LICENSE.md) file for more details.
+6. Run the appropriate batch or bash file for your operating system.
